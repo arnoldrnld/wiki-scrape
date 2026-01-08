@@ -15,5 +15,3 @@ venv/
 
 # Testing / tools
 .pytest_cache/
-
-PostgresWorker.py
