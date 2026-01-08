@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Testing / tools
+.pytest_cache/
+
+PostgresWorker.py
