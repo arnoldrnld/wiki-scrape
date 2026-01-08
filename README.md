@@ -1,0 +1,1 @@
+Built a multithreaded stock price ingestion system using Python, implementing a producer–consumer architecture with shared queues, rate limiting, and fault tolerance. Persisted real-time data in PostgreSQL and exported results for analysis
